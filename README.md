@@ -1,5 +1,4 @@
 # connectionist-temporal-classification
-//Please view this doc in the right editor(VIM,gedit...)
 1.write the CTC algorithm in C++
 2.I take the output of the Stanford ctc project(https://github.com/amaas/stanford-ctc.git) as reference.
 3.The refenrence code:stanford-ctc/ ctc/ctc.py
